@@ -1,0 +1,5 @@
+otter-grader>=5.5.1
+pylev
+numpy
+networkx
+tqdm>=4.64.1
